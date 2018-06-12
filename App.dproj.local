@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/06/11 14:27:17.000.933,=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2018/06/11 14:27:23.000.492,=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\ItemDetail1.pas</Transaction>
+    <Transaction>2018/06/11 14:28:40.000.379,=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/11 14:31:02.000.919,=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2018/06/11 14:31:03.000.404,=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>2018/06/12 00:34:12.000.106,=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/12 00:37:57.000.416,C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\FSplash.dfm=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/06/12 00:37:57.000.416,C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\FSplash.pas=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/12 00:37:59.000.600,C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\Project1.dproj=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/06/12 00:42:41.000.011,=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\Unit2.pas</Transaction>
+    <Transaction>2018/06/12 00:44:33.000.565,C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\Unit2.pas=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\FPrincipal.pas</Transaction>
+    <Transaction>2018/06/12 00:44:33.000.565,C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\Unit2.dfm=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\FPrincipal.dfm</Transaction>
+    <Transaction>2018/06/12 00:48:52.000.779,=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\Unit1.pas</Transaction>
+    <Transaction>2018/06/12 00:49:56.000.340,C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\Unit1.pas=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\FLogin.pas</Transaction>
+    <Transaction>2018/06/12 00:49:56.000.340,C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\Unit1.dfm=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\FLogin.dfm</Transaction>
+    <Transaction>2018/06/12 01:22:44.000.658,C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\Project1.dproj=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\Seanger.dproj</Transaction>
+    <Transaction>2018/06/12 01:46:47.849,C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\App.dproj=C:\Users\Vinícius\Documents\Embarcadero\Studio\Projects\teste_menu_1\Seanger.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
